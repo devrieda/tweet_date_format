@@ -1,0 +1,9 @@
+{
+  "name": "tweet_date",
+  "version": "0.1.0", 
+  "main": "./tweet_date.js",
+
+  "dependencies": {
+    "moment": "2.x.x"
+  }
+}
