@@ -20,8 +20,19 @@ Ruby helper method:
 <%= tweet_distance_of_time(tweeted_at) %>
 ```
 
+Javascript function: 
+
+```bash
+$> npm install
+```
+
+```javascript
+tweetDate = require("./tweet_date");
+var formatted = tweetDate.tweetDistanceOfTime("2013-05-06 12:30:00");
+```
+
 ## LICENSE
 
-Copyright (c) 2012 Derek DeVries
+Copyright (c) 2013 Derek DeVries
 
 Released under the [MIT License](http://www.opensource.org/licenses/MIT)
