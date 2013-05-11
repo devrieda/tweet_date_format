@@ -8,19 +8,19 @@ The output for the tweet dates will be something like:
 
 ```ruby
 # less than a minute
-16s
+"16s"
 
 # less than an hour
-10m
+"10m"
 
 # less than 24 hours
-13h
+"13h"
 
 # for older than 24 hours
-9 May
+"9 May"
 
 # for older than a year
-5 Dec 12
+"5 Dec 12"
 ```
 
 ## Examples
