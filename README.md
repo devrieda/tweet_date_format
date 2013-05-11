@@ -6,7 +6,7 @@ One part of this requirement is to format the *Tweet Timestamp* consistent with 
 
 The output for the tweet dates will be something like: 
 
-```
+```ruby
 # less than a minute
 16s
 
